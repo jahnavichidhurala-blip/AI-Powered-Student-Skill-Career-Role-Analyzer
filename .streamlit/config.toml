@@ -1,0 +1,56 @@
+[theme]
+
+base = "light"
+
+# Main colours
+primaryColor = "#2563EB"
+backgroundColor = "#F0F7FF"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172033"
+
+# Fonts
+font = "sans-serif"
+headingFont = "sans-serif"
+
+# Text size and weight
+baseFontSize = 16
+baseFontWeight = 400
+
+# Headings
+headingFontSizes = [
+    "2.75rem",
+    "2.25rem",
+    "1.75rem",
+    "1.5rem",
+    "1.25rem",
+    "1rem"
+]
+
+headingFontWeights = [
+    800,
+    800,
+    700,
+    700,
+    700,
+    600
+]
+
+# Rounded design
+baseRadius = "medium"
+buttonRadius = "large"
+
+# Borders
+borderColor = "#BFDBFE"
+
+# Links
+linkColor = "#1D4ED8"
+linkUnderline = false
+
+# Extra colours
+redColor = "#EF4444"
+orangeColor = "#F97316"
+yellowColor = "#EAB308"
+greenColor = "#10B981"
+blueColor = "#2563EB"
+violetColor = "#7C3AED"
+grayColor = "#64748B"
